@@ -21,10 +21,5 @@ Drag and drop the StellarReconfig folder into your actual KSP Gamedata
 /// Incompatibilities 
 - (KSPIE/KSPI) When using Tweakscale on FNSR parts with KSPIE/KSPI installed (Or any older mod), FNSR parts will not scale beyond 40 meters.
 
-/// Roadmap:
-ProceduralParts API for FNSR instead of many individual parts
-More part configs
-Maybe own parts, but im not sure
-
 /// License:
 All FNSR assets are licensed under MIT license
