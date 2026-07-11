@@ -25,3 +25,6 @@ Drag and drop the StellarReconfig folder into your actual KSP Gamedata
 ProceduralParts API for FNSR instead of many individual parts
 More part configs
 Maybe own parts, but im not sure
+
+/// License:
+All FNSR assets are licensed under MIT license
